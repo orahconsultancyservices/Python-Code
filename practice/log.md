@@ -10,3 +10,6 @@
 - 2026-07-06T12:48:06: practice/2026-07-06/fizzbuzz_variant_1.py
 - 2026-07-06T12:48:06: practice/2026-07-06/fizzbuzz_variant_2.py
 - 2026-07-07T11:51:11: practice/2026-07-07/fizzbuzz_variant_1.py
+- 2026-07-08T11:05:10: practice/2026-07-08/two_sum_1.py
+- 2026-07-08T11:05:10: practice/2026-07-08/prime_sieve_2.py
+- 2026-07-08T11:05:10: practice/2026-07-08/fizzbuzz_variant_3.py
