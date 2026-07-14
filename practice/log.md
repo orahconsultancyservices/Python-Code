@@ -21,3 +21,6 @@
 - 2026-07-10T11:52:29: practice/2026-07-10/fizzbuzz_variant_3.py
 - 2026-07-13T12:06:23: practice/2026-07-13/fizzbuzz_variant_1.py
 - 2026-07-13T12:06:23: practice/2026-07-13/two_sum_2.py
+- 2026-07-14T10:46:29: practice/2026-07-14/reverse_words_1.py
+- 2026-07-14T10:46:29: practice/2026-07-14/reverse_words_2.py
+- 2026-07-14T10:46:29: practice/2026-07-14/prime_sieve_3.py
