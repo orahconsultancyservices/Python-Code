@@ -32,3 +32,5 @@
 - 2026-07-17T10:47:23: practice/2026-07-17/reverse_words_2.py
 - 2026-07-19T10:28:16: practice/2026-07-19/prime_sieve_1.py
 - 2026-07-19T10:28:16: practice/2026-07-19/fizzbuzz_variant_2.py
+- 2026-07-20T11:45:37: practice/2026-07-20/reverse_words_1.py
+- 2026-07-20T11:45:37: practice/2026-07-20/fizzbuzz_variant_2.py
