@@ -42,3 +42,5 @@
 - 2026-07-22T11:10:06: practice/2026-07-22/reverse_words_3.py
 - 2026-07-23T11:10:12: practice/2026-07-23/prime_sieve_1.py
 - 2026-07-23T11:10:12: practice/2026-07-23/prime_sieve_2.py
+- 2026-07-24T11:03:18: practice/2026-07-24/reverse_words_1.py
+- 2026-07-24T11:03:18: practice/2026-07-24/reverse_words_2.py
