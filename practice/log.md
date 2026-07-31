@@ -50,3 +50,5 @@
 - 2026-07-29T11:26:07: practice/2026-07-29/prime_sieve_2.py
 - 2026-07-29T11:26:07: practice/2026-07-29/reverse_words_3.py
 - 2026-07-30T11:07:48: practice/2026-07-30/two_sum_1.py
+- 2026-07-31T11:29:18: practice/2026-07-31/fizzbuzz_variant_1.py
+- 2026-07-31T11:29:18: practice/2026-07-31/fizzbuzz_variant_2.py
