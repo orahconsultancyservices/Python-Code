@@ -54,3 +54,5 @@
 - 2026-07-31T11:29:18: practice/2026-07-31/fizzbuzz_variant_2.py
 - 2026-08-03T12:23:41: practice/2026-08-03/two_sum_1.py
 - 2026-08-03T12:23:41: practice/2026-08-03/reverse_words_2.py
+- 2026-08-04T11:23:11: practice/2026-08-04/fizzbuzz_variant_1.py
+- 2026-08-04T11:23:11: practice/2026-08-04/two_sum_2.py
