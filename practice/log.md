@@ -59,3 +59,5 @@
 - 2026-08-06T11:22:54: practice/2026-08-06/reverse_words_1.py
 - 2026-08-06T11:22:54: practice/2026-08-06/two_sum_2.py
 - 2026-08-06T11:22:54: practice/2026-08-06/prime_sieve_3.py
+- 2026-08-07T10:01:34: practice/2026-08-07/reverse_words_1.py
+- 2026-08-07T10:01:34: practice/2026-08-07/reverse_words_2.py
