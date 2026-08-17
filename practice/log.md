@@ -72,3 +72,5 @@
 - 2026-08-15T09:25:34: practice/2026-08-15/reverse_words_1.py
 - 2026-08-15T09:25:34: practice/2026-08-15/prime_sieve_2.py
 - 2026-08-15T09:25:34: practice/2026-08-15/prime_sieve_3.py
+- 2026-08-17T09:41:06: practice/2026-08-17/reverse_words_1.py
+- 2026-08-17T09:41:06: practice/2026-08-17/two_sum_2.py
