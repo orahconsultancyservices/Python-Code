@@ -77,3 +77,5 @@
 - 2026-08-18T09:33:17: practice/2026-08-18/two_sum_1.py
 - 2026-08-18T09:33:17: practice/2026-08-18/fizzbuzz_variant_2.py
 - 2026-08-18T09:33:17: practice/2026-08-18/prime_sieve_3.py
+- 2026-08-19T09:33:40: practice/2026-08-19/reverse_words_1.py
+- 2026-08-19T09:33:40: practice/2026-08-19/fizzbuzz_variant_2.py
