@@ -84,3 +84,6 @@
 - 2026-08-20T09:34:30: practice/2026-08-20/reverse_words_3.py
 - 2026-08-21T09:36:15: practice/2026-08-21/fizzbuzz_variant_1.py
 - 2026-08-21T09:36:15: practice/2026-08-21/fizzbuzz_variant_2.py
+- 2026-08-22T09:26:03: practice/2026-08-22/reverse_words_1.py
+- 2026-08-22T09:26:03: practice/2026-08-22/two_sum_2.py
+- 2026-08-22T09:26:03: practice/2026-08-22/prime_sieve_3.py
