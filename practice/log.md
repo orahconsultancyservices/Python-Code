@@ -98,3 +98,5 @@
 - 2026-09-01T13:57:40: practice/2026-09-01/fizzbuzz_variant_1.py
 - 2026-09-02T13:17:51: practice/2026-09-02/reverse_words_1.py
 - 2026-09-02T13:17:51: practice/2026-09-02/reverse_words_2.py
+- 2026-09-03T13:17:20: practice/2026-09-03/fizzbuzz_variant_1.py
+- 2026-09-03T13:17:20: practice/2026-09-03/fizzbuzz_variant_2.py
