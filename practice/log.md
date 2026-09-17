@@ -112,3 +112,6 @@
 - 2026-09-15T14:11:38: practice/2026-09-15/fizzbuzz_variant_1.py
 - 2026-09-15T14:11:38: practice/2026-09-15/two_sum_2.py
 - 2026-09-16T14:03:28: practice/2026-09-16/two_sum_1.py
+- 2026-09-17T14:08:00: practice/2026-09-17/two_sum_1.py
+- 2026-09-17T14:08:00: practice/2026-09-17/fizzbuzz_variant_2.py
+- 2026-09-17T14:08:00: practice/2026-09-17/two_sum_3.py
