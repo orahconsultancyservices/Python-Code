@@ -118,3 +118,4 @@
 - 2026-09-18T13:26:23: practice/2026-09-18/reverse_words_1.py
 - 2026-09-18T13:26:23: practice/2026-09-18/fizzbuzz_variant_2.py
 - 2026-09-18T13:26:23: practice/2026-09-18/two_sum_3.py
+- 2026-09-21T15:42:00: practice/2026-09-21/reverse_words_1.py
