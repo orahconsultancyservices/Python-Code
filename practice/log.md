@@ -127,3 +127,6 @@
 - 2026-09-25T14:26:57: practice/2026-09-25/fizzbuzz_variant_1.py
 - 2026-09-25T14:26:57: practice/2026-09-25/fizzbuzz_variant_2.py
 - 2026-09-25T14:26:57: practice/2026-09-25/two_sum_3.py
+- 2026-09-26T13:37:58: practice/2026-09-26/two_sum_1.py
+- 2026-09-26T13:37:58: practice/2026-09-26/reverse_words_2.py
+- 2026-09-26T13:37:58: practice/2026-09-26/prime_sieve_3.py
