@@ -130,3 +130,6 @@
 - 2026-09-26T13:37:58: practice/2026-09-26/two_sum_1.py
 - 2026-09-26T13:37:58: practice/2026-09-26/reverse_words_2.py
 - 2026-09-26T13:37:58: practice/2026-09-26/prime_sieve_3.py
+- 2026-09-28T17:23:58: practice/2026-09-28/prime_sieve_1.py
+- 2026-09-28T17:23:58: practice/2026-09-28/prime_sieve_2.py
+- 2026-09-28T17:23:58: practice/2026-09-28/fizzbuzz_variant_3.py
