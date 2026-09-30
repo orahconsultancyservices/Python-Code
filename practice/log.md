@@ -134,3 +134,6 @@
 - 2026-09-28T17:23:58: practice/2026-09-28/prime_sieve_2.py
 - 2026-09-28T17:23:58: practice/2026-09-28/fizzbuzz_variant_3.py
 - 2026-09-29T15:24:35: practice/2026-09-29/prime_sieve_1.py
+- 2026-09-30T15:41:14: practice/2026-09-30/prime_sieve_1.py
+- 2026-09-30T15:41:14: practice/2026-09-30/fizzbuzz_variant_2.py
+- 2026-09-30T15:41:14: practice/2026-09-30/reverse_words_3.py
