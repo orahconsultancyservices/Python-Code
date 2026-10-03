@@ -142,3 +142,5 @@
 - 2026-10-01T16:02:17: practice/2026-10-01/prime_sieve_3.py
 - 2026-10-02T15:25:51: practice/2026-10-02/prime_sieve_1.py
 - 2026-10-02T15:25:51: practice/2026-10-02/two_sum_2.py
+- 2026-10-03T14:09:21: practice/2026-10-03/prime_sieve_1.py
+- 2026-10-03T14:09:21: practice/2026-10-03/fizzbuzz_variant_2.py
