@@ -144,3 +144,6 @@
 - 2026-10-02T15:25:51: practice/2026-10-02/two_sum_2.py
 - 2026-10-03T14:09:21: practice/2026-10-03/prime_sieve_1.py
 - 2026-10-03T14:09:21: practice/2026-10-03/fizzbuzz_variant_2.py
+- 2026-10-04T14:39:01: practice/2026-10-04/two_sum_1.py
+- 2026-10-04T14:39:01: practice/2026-10-04/reverse_words_2.py
+- 2026-10-04T14:39:01: practice/2026-10-04/fizzbuzz_variant_3.py
