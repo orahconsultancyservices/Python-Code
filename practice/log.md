@@ -161,3 +161,5 @@
 - 2026-10-13T16:44:50: practice/2026-10-13/prime_sieve_1.py
 - 2026-10-14T14:21:35: practice/2026-10-14/prime_sieve_1.py
 - 2026-10-14T14:21:35: practice/2026-10-14/reverse_words_2.py
+- 2026-10-15T13:59:28: practice/2026-10-15/fizzbuzz_variant_1.py
+- 2026-10-15T13:59:28: practice/2026-10-15/two_sum_2.py
