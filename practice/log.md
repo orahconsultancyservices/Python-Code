@@ -170,3 +170,6 @@
 - 2026-10-19T16:14:38: practice/2026-10-19/prime_sieve_2.py
 - 2026-10-19T16:14:38: practice/2026-10-19/two_sum_3.py
 - 2026-10-20T14:08:20: practice/2026-10-20/fizzbuzz_variant_1.py
+- 2026-10-21T14:21:49: practice/2026-10-21/two_sum_1.py
+- 2026-10-21T14:21:49: practice/2026-10-21/reverse_words_2.py
+- 2026-10-21T14:21:49: practice/2026-10-21/two_sum_3.py
