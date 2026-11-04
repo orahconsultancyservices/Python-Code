@@ -191,3 +191,5 @@
 - 2026-11-02T19:13:57: practice/2026-11-02/reverse_words_3.py
 - 2026-11-03T16:51:11: practice/2026-11-03/two_sum_1.py
 - 2026-11-03T16:51:11: practice/2026-11-03/two_sum_2.py
+- 2026-11-04T16:53:25: practice/2026-11-04/reverse_words_1.py
+- 2026-11-04T16:53:25: practice/2026-11-04/reverse_words_2.py
