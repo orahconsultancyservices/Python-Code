@@ -218,3 +218,5 @@
 - 2026-11-19T17:59:08: practice/2026-11-19/reverse_words_2.py
 - 2026-11-19T17:59:08: practice/2026-11-19/prime_sieve_3.py
 - 2026-11-20T17:34:47: practice/2026-11-20/two_sum_1.py
+- 2026-11-21T16:37:39: practice/2026-11-21/reverse_words_1.py
+- 2026-11-21T16:37:39: practice/2026-11-21/prime_sieve_2.py
