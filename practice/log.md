@@ -225,3 +225,4 @@
 - 2026-11-23T20:54:30: practice/2026-11-23/reverse_words_3.py
 - 2026-11-24T19:58:52: practice/2026-11-24/two_sum_1.py
 - 2026-11-24T19:58:52: practice/2026-11-24/prime_sieve_2.py
+- 2026-11-25T18:59:19: practice/2026-11-25/reverse_words_1.py
