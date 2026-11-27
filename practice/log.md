@@ -229,3 +229,4 @@
 - 2026-11-26T18:51:09: practice/2026-11-26/reverse_words_1.py
 - 2026-11-26T18:51:09: practice/2026-11-26/fizzbuzz_variant_2.py
 - 2026-11-26T18:51:09: practice/2026-11-26/fizzbuzz_variant_3.py
+- 2026-11-27T18:42:30: practice/2026-11-27/prime_sieve_1.py
